@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# xls sheet
+*.xls
+*.xlsx
+
+*.DS_Store
